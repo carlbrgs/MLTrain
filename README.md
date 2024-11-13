@@ -2,12 +2,12 @@
 
 ## Objectif du Projet
 Le but de ce projet est de prédire le **genre musical** d'une chanson en fonction de ses caractéristiques audio. Nous utilisons un **arbre de décision** pour classifier les chansons selon leur genre en exploitant les données fournies dans le fichier `genres_v2.csv`, téléchargé depuis [Kaggle](https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify/data).
-**Genre**:
+**Genres**:
 
 ```
-X = spotifyData[['danceability', 'energy', 'key', 'loudness', 'mode', 
-                 'speechiness', 'acousticness', 'instrumentalness', 
-                 'liveness', 'valence']]
+['Dark Trap' 'Underground Rap' 'Trap Metal' 'Emo' 'Rap' 'RnB' 'Pop'
+ 'Hiphop' 'techhouse' 'techno' 'trance' 'psytrance' 'trap' 'dnb'
+ 'hardstyle']
 ```
 
 ## Données Utilisées
