@@ -21,3 +21,7 @@ La variable cible est le **genre** de chaque chanson, que nous essayons de préd
 ## Modèle Utilisé : Arbre de Décision
 Nous avons choisi un **arbre de décision** pour son interprétabilité et sa simplicité. Un paramètre essentiel pour éviter le surajustement est la **profondeur maximale de l'arbre**, que nous avons fixée à 5 après plusieurs essais.
 
+## Analyse des résultats
+- La précision globale du modèle sur l'ensemble de test est de 41.85%.
+- Les caractéristiques les plus importantes identifiées par l'arbre incluent danceability, energy, et loudness, ce qui suggère que ces aspects audio sont très influents pour différencier les genres.
+
