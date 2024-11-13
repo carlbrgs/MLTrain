@@ -33,7 +33,7 @@ Nous avons choisi un **arbre de décision** pour son interprétabilité et sa si
 
 - La précision globale du modèle sur l'ensemble de test est de 41.85%.
 ![image](https://github.com/user-attachments/assets/3cabbd5b-ce98-4060-8c9c-2b66af9b7344)
-![image](https://github.com/user-attachments/assets/bdf26ed7-cd87-4536-b6a0-b94f5ca11ff5)G
+![image](https://github.com/user-attachments/assets/bdf26ed7-cd87-4536-b6a0-b94f5ca11ff5)
 
 
 
